@@ -5,8 +5,8 @@ Repositório para Trabalho Final Colabarativo
 
 - T3 História da ferramenta: historia.html 
 - T5 Comandos GIT: comandos.html 
-- T1 Scrum scrum.html 
-- T2 Markdown markdown.html 
+- T1 Scrum: scrum.html 
+- T2 Markdown: markdown.html 
 - T4 Trabalhar colaborativamente GITHUB: github.html 
 
 Imagens/hisdtoria/ ….... 
