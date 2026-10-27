@@ -9,7 +9,7 @@ Repositório para Trabalho Final Colabarativo
 - T2 Markdown: markdown.html 
 - T4 Trabalhar colaborativamente GITHUB: github.html 
 
-Imagens/hisdtoria/ ….... 
+Imagens/historia/ ….... 
 
 GRP1 – Rodrigo + Lucas - T1  
 
